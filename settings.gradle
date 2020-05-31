@@ -1,0 +1,2 @@
+rootProject.name='Pyit Si Sett Mal'
+include ':app'

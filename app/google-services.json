@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593768305565",
+    "firebase_url": "https://pyit-si-sett-mal.firebaseio.com",
+    "project_id": "pyit-si-sett-mal",
+    "storage_bucket": "pyit-si-sett-mal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593768305565:android:f4d71961843dcde1069574",
+        "android_client_info": {
+          "package_name": "com.hippocompany.pyitsisettmal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593768305565-c2rvm56qh2fqr8i8jsmehun1418rpeai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hippocompany.pyitsisettmal",
+            "certificate_hash": "ac29159b3d7eab64d4c84cd7887b41cb011d0b11"
+          }
+        },
+        {
+          "client_id": "593768305565-jqqos8qj3dghd4v7706plb2aetuqf3b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQuEapkXN6GRcJE7ZEPuxfkOwtYlai2C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593768305565-jqqos8qj3dghd4v7706plb2aetuqf3b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
